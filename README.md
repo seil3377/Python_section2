@@ -8,8 +8,8 @@
 * 4.open, write, close
 * 5.with
 
-https://wikidocs.net/26
-https://docs.python.org/3/library/urllib.request.html
+	*파일 읽고 쓰기 **[바로가기](https://wikidocs.net/26)**
+	*urllib **[바로가기](https://docs.python.org/3/library/urllib.request.html)**
 
 
 
@@ -19,8 +19,6 @@ https://docs.python.org/3/library/urllib.request.html
 * 2.Type (자료형 알아보기)
 * 3.decode, geturl, stauts, getheaders, info, urlparse
 
-https://wikidocs.net/26
-https://docs.python.org/3/library/urllib.request.html
 
 
 
@@ -29,9 +27,9 @@ https://docs.python.org/3/library/urllib.request.html
 * 2.동영상 -> mp3 변환
 * 3.동영상 다운 및 mp3 변환 한 번에 자동화 하기
 
-*pytybe github **[바로가기](https://github.com/nficano/pytube)**
-*python subprocess ref **[바로가기](https://docs.python.org/3.6/library/subprocess.html)**
-*ffmpeg for windows **[바로가기](http://www.filehorse.com/download*ffmpeg*64/)**
+	*pytybe github **[바로가기](https://github.com/nficano/pytube)**
+	*python subprocess ref **[바로가기](https://docs.python.org/3.6/library/subprocess.html)**
+	*ffmpeg for windows **[바로가기](http://www.filehorse.com/download*ffmpeg*64/)**
 
 
 
@@ -41,9 +39,9 @@ https://docs.python.org/3/library/urllib.request.html
 * 2.urljoin, find_all, select_one, next_sibling, previous_sibling
 * 3.선택자(Selector)
 
-*BeautifulSoup **[바로가기](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)**
-*Selector **[바로가기](https://www.w3schools.com/cssref/css_selectors.asp)**
-*Css 온라인 **[바로가기](https://www.w3schools.com/cssref/trysel.asp)**
+	*BeautifulSoup **[바로가기](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)**
+	*Selector **[바로가기](https://www.w3schools.com/cssref/css_selectors.asp)**
+	*Css 온라인 **[바로가기](https://www.w3schools.com/cssref/trysel.asp)**
 
 
 
@@ -52,8 +50,8 @@ https://docs.python.org/3/library/urllib.request.html
 * 2.더욱 다양하게 CSS 선택자 사용해보기
 * 3.find, select 실습 예제
 
-*정규표현식 **[바로가기](http://pythonstudy.xyz/python/article/401*%EC%A0%95%EA%B7%9C*%ED%91%9C%ED%98%84%EC%8B%9D*Regex)**
-*람다식 **[바로가기](http://thrillfighter.tistory.com/356)**
+	*정규표현식 **[바로가기](http://pythonstudy.xyz/python/article/401*%EC%A0%95%EA%B7%9C*%ED%91%9C%ED%98%84%EC%8B%9D*Regex)**
+	*람다식 **[바로가기](http://thrillfighter.tistory.com/356)**
 
 
 
@@ -70,7 +68,7 @@ https://docs.python.org/3/library/urllib.request.html
 * 1.네이버에서 원하는 사진(이미지) 한 번에 다운로드 받기
 * 2.인프런 추천 강좌 이미지 한 번에 다운로드 & 제목 텍스트 파일 출력하기
 
-*ErrorCode **[바로가기](https://python.readthedocs.io/en/latest/library/errno.html)**
+	*ErrorCode **[바로가기](https://python.readthedocs.io/en/latest/library/errno.html)**
 
 
 
@@ -80,4 +78,4 @@ https://docs.python.org/3/library/urllib.request.html
 * 3.클래스 네임스페이스 이해하기
 * 4.클래스 변수와 인스턴스 변수 차이점 이해하기
 
-*Classes Documentation **[바로가기]( https://docs.python.org/3/tutorial/classes.html)**
+	*Classes Documentation **[바로가기]( https://docs.python.org/3/tutorial/classes.html)**
